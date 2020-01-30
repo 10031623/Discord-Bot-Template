@@ -1,4 +1,2 @@
-//The prefix you bot will use for commands
-{"prefix": "!",}
-//The token for your bot
-{"token": "your-token-goes-here"}
+{"prefix": "!",
+"token": "your-token-goes-here"}
