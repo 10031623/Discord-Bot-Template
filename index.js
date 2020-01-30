@@ -23,7 +23,7 @@ client.on('ready', () => {
 		})
 		.then(console.log("Bot ready."));
 	configSetup();
-}
+})
 
 client.on('message', message => {
 	if (message.content === `${prefix}ping`) {
